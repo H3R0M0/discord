@@ -115,9 +115,6 @@ Diese Regeln sind erweiterbar, für Ideen kontaktieren sie einen Administrator.
 
 ## §25 Verstöße
 In folgender Ansicht ist definiert bei wievielen Verstößen man **automatisiert** welche Strafen erhält:   
-1 Verstoß: 30 minütiger Tempmute    
-3 Verstoß: 24 stündiger Tempmute    
-5 Verstöße: 1 wöchiger Tempban  
 Verstöße | Strafe 
 ------ | ------
 1      | 30 minütiger Tempmute     
@@ -128,5 +125,6 @@ Die Anzahl der Verstöße wird jährlich zurückgesetzt.
 
 
 
+<br><br><br><br>
 stand: 14. Dezember 2020   
 &copy; Diese Regeln sind geschützt durch das UrhG
