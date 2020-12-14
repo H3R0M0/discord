@@ -5,15 +5,17 @@
 Die hier getroffenen Regeln gelten (außer bei ausdrücklicher Erwähnung) auf dem ganzen Discord-Server.  
 Es existieren keine mündlichen oder schriftlichen (Webkommunikation) Nebenabsprachen zur Einhaltung dieser Regeln.  
 Den Anweisungen der Teammitglieder ist unter allen Umständen Folge zu leisten.  
-Der Betreiber des Discord-Servers ist jederzeit dazu befugt Sanktionen - auch ohne Grund - gegen jeden Spieler zu verhängen. Ein Rang schützt auf keinen Fall vor einer Strafe!  
+Der Betreiber des Discord-Servers ist jederzeit dazu befugt Sanktionen - auch ohne Grund - gegen jeden Spieler zu verhängen.  
+Ein Rang schützt auf keinen Fall vor einer Strafe!  
 Niemand hat Anspruch auf einen Rang oder gesonderten Rechten sowie das Angebot nutzen zu dürfen.  
 Das Umgehen von Sanktionen durch mehrere Identitäten ist untersagt.  
 Der Betrug von Usern/Teammitgliedern ist verboten.  
-Sanktionen die Ausgesprochen werden, richten sich gegen Identitäten, nicht gegen Personen oder deren Inhaber. Jeder ist für seine Identitäten selbst verantwortlich.  
+Sanktionen die Ausgesprochen werden, richten sich gegen Identitäten, nicht gegen Personen oder deren Inhaber.  
+Jeder ist für seine Identitäten selbst verantwortlich.  
 
 ## §2 Umgangston
-Wir (das Team) verlangen von ALLEN Spielern einen respektvollen Umgangston, der zudem freundlich sein sollte.
-Bei Beleidigungen gegen andere Spieler, wird der betroffene Spieler vom Discord zeitweilig ausgeschlossen.
+Wir (das Team) verlangen von ALLEN Spielern einen respektvollen Umgangston, der zudem freundlich sein sollte.  
+Bei Beleidigungen gegen andere Spieler, wird der betroffene Spieler vom Discord zeitweilig ausgeschlossen.  
 Auch bei Teammitgliedern fordern wir einen angemessenen Umgangston.  
 
 ## §3 Discord-Rechte
@@ -86,7 +88,7 @@ Der Discord enthält sog. „externe Links“ (Verlinkungen) zu anderen Webseite
 Aus diesem Grund kann der Anbieter für diese Inhalte auch keine Gewähr übernehmen.  
 
 ## §19 Kontakt
-Die Kontaktperson dieses Servers ist H3R0M0#1715
+Die Kontaktperson dieses Servers ist H3R0M0#1715  
 Für weitere Angaben wenden sie sich per E-Mail an h3r0m0.sup@gmail.com  
 
 ## §20 Öffentlichkeit und Einladungen
@@ -116,7 +118,12 @@ In folgender Ansicht ist definiert bei wievielen Verstößen man **automatisiert
 1 Verstoß: 30 minütiger Tempmute    
 3 Verstoß: 24 stündiger Tempmute    
 5 Verstöße: 1 wöchiger Tempban  
-
+Verstöße | Strafe 
+------ | ------
+1      | 30 minütiger Tempmute     
+2       | 24 stündiger Tempmute   
+3      | 1 wöchiger Tempban      
+Die Anzahl der Verstöße wird jährlich zurückgesetzt.
 
 
 
