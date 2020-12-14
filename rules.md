@@ -122,8 +122,9 @@ Verstöße | Strafe
 ------ | ------
 1      | 30 minütiger Tempmute     
 2       | 24 stündiger Tempmute   
-3      | 1 wöchiger Tempban      
-Die Anzahl der Verstöße wird jährlich zurückgesetzt.
+3      | 1 wöchiger Tempban     
+
+Die Anzahl der Verstöße wird jährlich zurückgesetzt.  
 
 
 
