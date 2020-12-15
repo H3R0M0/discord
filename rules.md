@@ -28,7 +28,7 @@ Channel Hopping kann bei mehrfacher Benutzung mit einem Ban bestraft werden.
 ## §5 Verhalten in Textkanälen
 In Textkanälen wird jede Nachricht die als anstößig oder Spam empfunden wird, mit einem WARN(Mehr Infos siehe §25) bestraft.  
 Bot-Commands dürfen durch User ausschließlich in den Räumen #bot und #support-info genutzt werden.  
-Zudem werden Wörter auf [dieser Liste](../badword-filter) automatisiert entfernt und mit einem Warn bestraft.  
+Zudem werden Wörter auf [dieser Liste](./badword-filter) automatisiert entfernt und mit einem Warn bestraft.  
 
 
 ## §6 Verhalten in Sprachkanälen
