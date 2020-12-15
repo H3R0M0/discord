@@ -98,8 +98,10 @@ Dieser Discord Server ist bedingt privat!
 Es ist lediglich gestattet, Einladungen an Personen zu schicken die dem direkten Umfeld der Klasse 9B angehören.  
 Bist du dir nicht sicher ob dies der Fall ist, frag lieber einen Administrator.  
 
-## §21 Recht
-Dieser Server ist deutsch, daher werden Verstöße gegen das Grund- und Strafrecht im Regelfall bestraft!  
+## §21 Team
+Wenn du dich durch ein Teammitglied ungerecht behandelt fühlst kontaktieren einen Administrator.  
+Im Gegensatz zu Administratoren haben Teammitglieder kein Recht auf grundlose Sanktionierung von Usern.  
+
 
 ## §22 Verrat
 Verrat ist das höchste Vergehen!
